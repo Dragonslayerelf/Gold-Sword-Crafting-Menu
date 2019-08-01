@@ -1,0 +1,13 @@
+name: Crafting
+version: ${project.version}
+main: com.dragonslayerelf.crafting.crafting.Crafting
+api-version: 1.13
+authors: [Dragonslayerelf]
+description: A little test crafting plugin that I wanted to work on
+commands:
+  giveMenu:
+    description: Opens the give menu
+    usage: /<command>
+  craftTest:
+    description: Opens the gold sword crafting menu
+    usage: /<command>
